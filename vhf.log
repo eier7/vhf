@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (preloaded format=pdflatex 2017.1.25)  30 JAN 2017 16:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Arch Linux) (preloaded format=pdflatex 2017.1.25)  30 JAN 2017 16:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -391,25 +391,29 @@ G,.JBIG2,.JB2,.eps]
 (/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
-)) [1
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 22.
+ [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./vhf.aux) ) 
 Here is how much of TeX's memory you used:
- 11580 strings out of 493013
- 235293 string characters out of 6139317
- 264546 words of memory out of 5000000
- 14929 multiletter control sequences out of 15000+600000
+ 11586 strings out of 493013
+ 235383 string characters out of 6139317
+ 265546 words of memory out of 5000000
+ 14935 multiletter control sequences out of 15000+600000
  4238 words of font info for 16 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,6n,54p,384b,521s stack positions out of 5000i,500n,10000p,200000b,80000s
- </usr/share/
-texmf-dist/fonts/pk/ljfour/public/cm/dpi600/cmr8.pk> </usr/share/texmf-dist/fon
-ts/pk/ljfour/public/cm/dpi600/cmr17.pk> </home/ablive/.texlive/texmf-var/fonts/
-pk/ljfour/public/cm/cmr5.600pk>
-Output written on vhf.pdf (1 page, 6547 bytes).
+ 55i,6n,54p,384b,534s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/abliv
+e/.texlive/texmf-var/fonts/pk/ljfour/public/cm/cmmi5.600pk> </usr/share/texmf-d
+ist/fonts/pk/ljfour/public/cm/dpi600/cmr8.pk> </usr/share/texmf-dist/fonts/pk/l
+jfour/public/cm/dpi600/cmr17.pk> </home/ablive/.texlive/texmf-var/fonts/pk/ljfo
+ur/public/cm/cmr5.600pk>
+Output written on vhf.pdf (1 page, 11121 bytes).
 PDF statistics:
- 36 PDF objects out of 1000 (max. 8388607)
- 19 compressed objects within 1 object stream
+ 59 PDF objects out of 1000 (max. 8388607)
+ 23 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
