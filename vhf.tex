@@ -15,10 +15,8 @@
     \draw[-] (0,-2) -- (0, 2);
     \draw[-] (0,0) -- (4,0); 
     \draw[black, densely dashed, samples=65] plot (\x, {sin(pi*\x*1 r)});
-    \draw[blue, samples=65] plot(\x, {(1/20)/(1/18)*sin(pi*\x*.999 r)}) 
-        node[right] {\footnotesize{20}\tiny{W}};
-    \draw[red, samples=65] plot(\x, {(1/20)/(1/2)*sin(pi*\x*.999 r)}) 
-        node[right] {\footnotesize{2}\tiny{W}};
+    \draw[blue, samples=65] plot(\x, {(1/20)/(1/18)*sin(pi*\x*.999 r)});
+    \draw[red, samples=65] plot(\x, {(1/20)/(1/2)*sin(pi*\x*.999 r)}); 
     \node[black, anchor=west] at (0,-2.3) {\tiny{VHF} \LARGE{6} \footnotesize{156.300Mhz}};
     \end{tikzpicture}
 
